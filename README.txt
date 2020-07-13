@@ -1,0 +1,2 @@
+This is the updated version of task_manager_V1 as this project has functions to make the code easier to understand and read. The program has more functions to do it job. 
+The user is now able to generate reports and generate statistic more efficiently.

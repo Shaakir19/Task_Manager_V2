@@ -1,0 +1,26 @@
+The total number of users : 4 
+The total number of tasks : 3 
+User : admin 
+The Total number of task from admin : 2 
+The percentage of tasks for admin : 67 % 
+The percentage of complete tasks for admin : 0 % 
+The percentage of complete tasks for admin : 100% 
+The percentage of complete tasks for admin : 100% 
+User : shaakir 
+The Total number of task from shaakir : 1 
+The percentage of tasks for shaakir : 33 % 
+The percentage of complete tasks for shaakir : 0 % 
+The percentage of complete tasks for shaakir : 100% 
+The percentage of complete tasks for shaakir : 0% 
+User : fran 
+The Total number of task from fran : 0 
+The percentage of tasks for fran : 0 % 
+The percentage of complete tasks for fran : 0 % 
+The percentage of complete tasks for fran : 0 % 
+The percentage of complete tasks for fran : 0 % 
+User : jeff 
+The Total number of task from jeff : 0 
+The percentage of tasks for jeff : 0 % 
+The percentage of complete tasks for jeff : 0 % 
+The percentage of complete tasks for jeff : 0 % 
+The percentage of complete tasks for jeff : 0 % 
